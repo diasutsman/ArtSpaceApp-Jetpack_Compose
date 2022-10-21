@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="artist_name_year">%s (%s)</string>
+</resources>
